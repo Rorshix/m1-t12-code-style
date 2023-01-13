@@ -1,6 +1,4 @@
-import java.net.URI;
 import java.util.Scanner;
-import java.io.IOException;
 import static java.lang.Math.pow;
 
 public class CalculateDeposit {
